@@ -57,9 +57,7 @@ def get_best_reviews(df, gmaps):
 
 
 
-#gmaps = googlemaps.Client(key='AIzaSyAjgbniKi3bAiv6qdiB_vrrwgpqM2VtFXg')
-#data_test = pd.read_csv("/Users/emre/Desktop/ESO_Softwares/google-maps-scraper-main/output_magi_paris/magi_paris_results.csv")
-#test1 , test2 = get_best_reviews(data_test,gmaps)
+
 
 
 
